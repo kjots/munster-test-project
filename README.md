@@ -1,2 +1,2 @@
 # munster-test-project
-Munster Test Project
+Munster test project
